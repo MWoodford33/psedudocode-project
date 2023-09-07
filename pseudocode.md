@@ -90,6 +90,8 @@ desiredamount.water is 64 fl ounces
 
 desiredamount.cinnamon is 3 dashes 
 
+remainingamount.coffee is coffee left in freench press after first cup is poured
+
 dash is the amount of cinnamon that comes out when receptical is turned upside down and shaken
 
 
