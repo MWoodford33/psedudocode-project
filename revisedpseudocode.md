@@ -25,7 +25,7 @@ SET_TIMER(4 minutes)
 WHEN_TIMER_GOES_OFF()
 //wait for timer to go off
 
-PRESS_FRENCH_PRESS_LID(down)
+PRESS_FRENCH_PRESS_LID(gently)
 //press down on french press lid handle to seperate grounds from coffee
 
 POUR_FIRST_CUP_COFFEE
