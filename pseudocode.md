@@ -2,17 +2,19 @@ START
 //begin the prgram
 
 INIT()
-  fill kettle with desiredamount.water
-  put kettle on selected stove burner
-  turn knob to turn on selected stove burner
-  take lid off french press
-  add 2 scoops coffee1 and coffee2 to french press
-  add 3 dashes cinnamon to french press
+  FILL kettle with desiredamount.water
+  PUT kettle on selected stove burner
+  TURN knob to turn on selected stove burner
+  TAKE lid off french press
+  ADD 2 scoops coffee1 and coffee2 to french press
+  ADD 3 dashes cinnamon to french press
   if kettle whistling add water to french press
-  put lid on french press
-  press handle of french press lid down 50% length of french press
-  set timer to 4 minutes
-  when timer goes off 
+  PUT lid on french press
+  PRESS handle of french press lid down 50% length of french press
+  SET timer to 4 minutes
+  WHEN timer goes off POUR first cup of coffee
+  POUR remaining copy into second receptcal
+  
 
 // objects
 
