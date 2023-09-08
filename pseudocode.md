@@ -14,7 +14,7 @@ INIT()
   SET timer to 4 minutes
   WHEN timer goes off POUR first cup of coffee
   POUR remaining copy into second receptcal
-  
+END
 
 // objects
 
